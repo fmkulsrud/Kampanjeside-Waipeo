@@ -283,6 +283,7 @@ button {
     background-color: #FDF2E5;
     border-radius: 8px;
     border-color: #FDF2E5;
+    border: 0px;
     color: black;
     box-shadow: 1px 1px 10px rgb(150, 150, 150);
 }
